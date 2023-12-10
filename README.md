@@ -12,6 +12,6 @@ A personal project for developing a Silicon Carbide Gate Driver board based on T
 </figure>
 
 <figure>
-<img src="Images/recommended_operating_conditions.png" title="Recommended operating conditions of UCC21750." >
+<img src="Images/recommended_operating_conditions.PNG" title="Recommended operating conditions of UCC21750." >
 <figcaption>Fig.3 Recommended operating conditions of UCC21750.</figcaption>
 </figure>
