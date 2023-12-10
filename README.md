@@ -1,3 +1,21 @@
+<head>
+<style>
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+</style>
+</head>
+
 # SiC-MOSFET-Gate-Driver-Design-R1
 A personal project for developing a Silicon Carbide Gate Driver board based on TI's UCC21750 IC.
 
