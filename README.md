@@ -5,11 +5,6 @@ A personal project for developing a Silicon Carbide Gate Driver board based on T
 
 
 <figure>
-  <style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
-<img src="Images/UCC21750_Pinout_transp.PNG" title="Van Gogh, Self-portrait.">
+<img src="Images/UCC21750_Pinout_transp.PNG" title="Van Gogh, Self-portrait." class="center">
 <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
 </figure>
