@@ -7,6 +7,6 @@ A personal project for developing a Silicon Carbide Gate Driver board based on T
 </figure>
 
 <figure>
-<img src="Images/pin_functions.PNG" title="Pin functions of UCC21750." >
+<img src="Images/pin_functions_highlight.png" title="Pin functions of UCC21750." >
 <figcaption>Fig.2 Pin functions of UCC21750.</figcaption>
 </figure>
